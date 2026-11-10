@@ -1,2 +1,5 @@
-# zx-finder
-Kisi bhi user name ka social media or ata kara 
+# ZX Finder
+Username finder for Termux.
+
+    pip install requests
+    python zxfinder.py
